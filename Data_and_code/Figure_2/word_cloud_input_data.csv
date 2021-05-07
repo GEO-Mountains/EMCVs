@@ -1,0 +1,51 @@
+term, freq
+"Albedo",112
+"Precipitation",65
+"Land cover",59
+"Water vapor*",59
+"Air temperature*",54
+"Wind speed and direction*",34
+"Surface shortwave radiation budget",20
+"Ozone concentrations**",20
+"Greenhouse gasses***",20
+"Snow covered area",18
+"Evapotranspiration and sublimation",18
+"Surface longwave radiation budget",16
+"Soil moisture",16
+"Permafrost and soil freeze/thaw",16
+"Cloud properties",15
+"Aerosol properties",15
+"River discharge",14
+"Nitrogen deposition",12
+"Aerosol scatting and absorption",12
+"Vegetation species abundancies and extents",11
+"Debris cover, dust, and black carbon",11
+"Lake surface temperature",9
+"Atmospheric pressure",8
+"Vegetation perbutation",8
+"Snow depth",8
+"Fraction of Absorbed Photosynthetically Active Radiation",8
+"Soil carbon",7
+"Snow Water Equivalent",7
+"Natural Hazards", 7
+"Aerosol layer height",6
+"Sensible heat flux",6
+"Glacier surface elevation",6
+"Glacier mass balance",6
+"Glacier melt / runoff",6
+"Snow melt / runoff",6
+"Environmental lapse rates",6
+"Topography",5
+"Snow microstructure",5
+"Groundwater levels",5
+"Surface water inundation",3
+"Above-ground biomass",3
+"Geopotential height",3
+"Mountain Front Recharge",3
+"Mountain Block Recharge",3
+"Dynamic groundwater storage",3
+"Lake water color",3
+"Soil bulk density",2
+"Stable water isotopes",2
+"Soil thickness",1
+"Soil hydraulic properties",1
